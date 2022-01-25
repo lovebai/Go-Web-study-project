@@ -1,6 +1,6 @@
-## 学习 Go Web 开发基础项目
+## Learn Go Web Development Fundamentals
 
-效果图
+### Demo:
 
 ![屏幕截图 2022-01-25 234053.png](image/屏幕截图 2022-01-25 234053.png)
 
